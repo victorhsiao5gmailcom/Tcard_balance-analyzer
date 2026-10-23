@@ -4,7 +4,7 @@ Copy and paste this line into the terminal in the same folder
 
 Python app.py
 
-Open the link in the terminal to access the analysis after all the data is obtained.
+Open the link in the terminal to access the analysis after all data is obtained.
 
 
 # Privacy
