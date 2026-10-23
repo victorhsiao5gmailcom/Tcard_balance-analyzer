@@ -1,0 +1,6 @@
+dash>=2.17
+dash-auth>=2.3
+pandas
+numpy
+plotly
+gunicorn
